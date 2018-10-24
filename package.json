@@ -1,0 +1,31 @@
+{
+  "name": "mb_portfolio_website",
+  "version": "1.0.0",
+  "description": "Matthew Bestard's portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MattBestard/mb_portfolio_website.git"
+  },
+  "author": "Matthew Bestard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MattBestard/mb_portfolio_website/issues"
+  },
+  "homepage": "https://github.com/MattBestard/mb_portfolio_website#readme",
+  "devDependencies": {
+    "@babel/core": "^7.1.2",
+    "@babel/preset-env": "^7.1.0",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.4",
+    "webpack": "^4.22.0",
+    "webpack-cli": "^3.1.2"
+  },
+  "dependencies": {
+    "react": "^16.6.0",
+    "react-dom": "^16.6.0"
+  }
+}
