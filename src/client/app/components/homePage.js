@@ -5,7 +5,7 @@ import HomePagePicture from './homePagePicture.js';
 class HomePage extends React.Component {
     render() {
         return(
-        <div class="home-page">
+        <div className="home-page">
             <NavBar />
             <HomePagePicture />
         </div>
