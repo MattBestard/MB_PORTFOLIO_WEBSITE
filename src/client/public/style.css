@@ -1,0 +1,41 @@
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.home-page {
+    display: inline-flex;
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-bar {
+    width: 10%;
+    background-color: gray;
+}
+
+.homepage-picture {
+    padding: 10px;
+    width: 90%;
+    background-color: white;
+}
+
+.nav-button {
+    padding: 10px;
+    margin: 10px;
+}
+
+.homepage-color-block {
+    height: 33%;
+    background-color: black;
+}
+
+.dev-pic {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background-image: url("https://media.licdn.com/dms/image/C4D03AQFu6eEM3So6-g/profile-displayphoto-shrink_200_200/0?e=1545868800&v=beta&t=4OGX8TRysycfmNbJ_8Sym6vrdMbztJit2R_3Y-L79xQ");
+}
